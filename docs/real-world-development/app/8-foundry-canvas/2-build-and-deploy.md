@@ -156,6 +156,6 @@ You scaffolded the Backer Concierge, tested its catalog grounding and conversati
 
 Next, you'll use the same Tailspin Toys repository, worktree branch, issue-linked session, Foundry project, selected model deployment, and hosted agent to [connect the agent to the site][next-module]. If you're stopping here, [clean up your Azure resources][cleanup] to avoid ongoing costs.
 
-[previous-module]: ../1-project-and-model/
-[next-module]: ../3-connect-to-site/
-[cleanup]: ../#clean-up-your-resources
+[previous-module]: 1-project-and-model.md
+[next-module]: 3-connect-to-site.md
+[cleanup]: README.md#clean-up-your-resources

@@ -47,4 +47,4 @@ If you prefer to merge yourself, review the final diff, verify the feature, and 
 You completed the development loop from issue to reviewed and merged pull request. Continue to [Lesson 9: Automate issue triage][next-lesson].
 
 [code-review]: https://docs.github.com/copilot/concepts/agents/code-review
-[next-lesson]: ../9-automations/
+[next-lesson]: 9-automations.md

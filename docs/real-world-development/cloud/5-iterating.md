@@ -184,4 +184,4 @@ In your own repository, try these follow-up ideas:
 [cloud-agent-best-practices]: https://docs.github.com/copilot/how-tos/copilot-on-github/customize-copilot/customize-cloud-agent/customize-the-agent-environment
 [agent-firewall]: https://docs.github.com/copilot/how-tos/copilot-on-github/customize-copilot/customize-cloud-agent/customize-the-agent-firewall
 
-[previous-lesson]: ../4-managing-agents/
+[previous-lesson]: 4-managing-agents.md

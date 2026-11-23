@@ -59,4 +59,4 @@ If you want to continue experimenting, ask the agent to:
 
 You built, inspected, and refined the Space Quiz. Continue to [Lesson 3: Inspect the session and test the quiz][next-lesson].
 
-[next-lesson]: ../3-inspect-and-test/
+[next-lesson]: 3-inspect-and-test.md

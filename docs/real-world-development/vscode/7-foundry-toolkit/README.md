@@ -88,10 +88,10 @@ When you're done experimenting at any checkpoint, remove the Azure resources to 
 | [Next module: Prepare a project and model →][module-1] |
 |--:|
 
-[previous-lesson]: ../6-iterating/
-[module-1]: 1-project-and-model/
-[module-2]: 2-build-and-deploy/
-[module-3]: 3-connect-to-site/
+[previous-lesson]: ../6-iterating.md
+[module-1]: 1-project-and-model.md
+[module-2]: 2-build-and-deploy.md
+[module-3]: 3-connect-to-site.md
 [cleanup]: #clean-up-your-resources
 [foundry-toolkit]: https://code.visualstudio.com/docs/intelligentapps/overview
 [foundry-extension]: https://learn.microsoft.com/azure/developer/azure-developer-cli/extensions/azure-ai-foundry-extension

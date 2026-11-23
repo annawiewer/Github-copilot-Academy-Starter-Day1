@@ -136,9 +136,9 @@ Next, you'll use the same `tailspin-toys` project and selected model deployment 
 | [Next module: Build and deploy an agent →][next-lesson] |
 |--:|
 
-[overview]: ../
-[next-lesson]: ../2-build-and-deploy/
-[cleanup]: ../#clean-up-your-resources
+[overview]: README.md
+[next-lesson]: 2-build-and-deploy.md
+[cleanup]: README.md#clean-up-your-resources.md
 [azure-free]: https://azure.microsoft.com/pricing/purchase-options/azure-account
 [azure-students]: https://azure.microsoft.com/free/students
 [foundry-skill]: https://github.com/microsoft/azure-skills/blob/main/skills/microsoft-foundry/SKILL.md

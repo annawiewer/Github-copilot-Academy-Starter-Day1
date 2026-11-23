@@ -102,7 +102,7 @@ These community examples are references, not additional tasks. Review their prer
 
 The upstream contribution example is named `make-repo-contribution`; older Tailspin templates used a different name, `make-contribution`. This workshop does not depend on either contribution skill.
 
-[next-lesson]: ../6-mcp-playwright/
+[next-lesson]: 6-mcp-playwright.md
 [skill-spec]: https://agentskills.io/specification
 [contribution-example]: https://github.com/github/awesome-copilot/tree/main/skills/make-repo-contribution
 [prd-example]: https://github.com/github/awesome-copilot/tree/main/skills/prd

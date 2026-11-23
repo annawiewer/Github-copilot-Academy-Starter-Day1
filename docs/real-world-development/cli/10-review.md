@@ -63,11 +63,11 @@ If you want to extend Tailspin Toys from the terminal, continue with the optiona
 - [Customize Copilot CLI][customize-cli]
 - [Manage pull requests with Copilot CLI][manage-prs]
 
-[previous-lesson]: ../9-cli-power-tools/
-[foundry]: ../8-foundry-agent/
-[vscode]: ../../vscode/
-[app]: ../../app/
-[cloud]: ../../cloud/
+[previous-lesson]: 9-cli-power-tools.md
+[foundry]: 8-foundry-agent/README.md
+[vscode]: ../vscode/README.md
+[app]: ../app/README.md
+[cloud]: ../cloud/README.md
 [about-cli]: https://docs.github.com/copilot/concepts/agents/about-copilot-cli
 [cli-reference]: https://docs.github.com/copilot/reference/copilot-cli-reference/cli-command-reference
 [customize-cli]: https://docs.github.com/copilot/how-tos/copilot-cli/customize-copilot

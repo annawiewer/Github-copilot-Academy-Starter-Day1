@@ -102,5 +102,5 @@ Next, you'll [customize and run the reusable quality-checks skill][next-lesson] 
 [instructions-best-practices]: https://docs.github.com/copilot/concepts/prompting/response-customization#writing-effective-custom-instructions
 [awesome-copilot]: https://awesome-copilot.github.com/
 [custom-instructions-support]: https://docs.github.com/copilot/reference/custom-instructions-support
-[previous-lesson]: ../3-agent-modes/
-[next-lesson]: ../5-agent-skills/
+[previous-lesson]: 3-agent-modes.md
+[next-lesson]: 5-agent-skills.md

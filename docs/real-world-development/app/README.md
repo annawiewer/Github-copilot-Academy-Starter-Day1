@@ -59,16 +59,16 @@ Before attending this workshop, please ensure you have:
 
 **[Start with the prerequisites →][ex0]**
 
-[ex0]: 0-prerequisites/
-[ex1]: 1-install-copilot-app/
-[ex2]: 2-add-star-rating/
-[ex3]: 3-agent-modes/
-[ex4]: 4-custom-instructions/
-[ex5]: 5-agent-skills/
-[ex6]: 6-mcp-playwright/
-[ex7]: 7-qa-agent/
-[ex8]: 8-create-pull-request/
-[ex9]: 9-canvases/
-[ex10]: 10-review/
+[ex0]: 0-prerequisites.md
+[ex1]: 1-install-copilot-app.md
+[ex2]: 2-add-star-rating.md
+[ex3]: 3-agent-modes.md
+[ex4]: 4-custom-instructions.md
+[ex5]: 5-agent-skills.md
+[ex6]: 6-mcp-playwright.md
+[ex7]: 7-qa-agent.md
+[ex8]: 8-create-pull-request.md
+[ex9]: 9-canvases.md
+[ex10]: 10-review.md
 [install-git]: https://github.com/git-guides/install-git
 [callout-student-plan-education]: https://github.com/education/students

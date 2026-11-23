@@ -37,4 +37,4 @@ In this lesson, you will:
 
 You agreed on an approach with the agent before it wrote any code. Continue to [Lesson 8: Complete the Copilot review loop][next-lesson].
 
-[next-lesson]: ../8-review-loop/
+[next-lesson]: 8-review-loop.md

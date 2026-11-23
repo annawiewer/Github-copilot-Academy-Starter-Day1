@@ -40,4 +40,4 @@ The results screen feels flat. Give it a stronger sense of arrival: animate the 
 
 You built the quiz and refined it with a scoped request. Continue to [Lesson 2: Capture project instructions][next-lesson].
 
-[next-lesson]: ../2-project-instructions/
+[next-lesson]: 2-project-instructions.md

@@ -86,7 +86,7 @@ You now have the implementation, skill update, QA profile, tests, and verificati
 - [Create custom agents for Copilot CLI][create-agents]
 - [Custom agent configuration][agent-config]
 
-[previous-lesson]: ../6-mcp-playwright/
-[next-lesson]: ../8-create-pull-request/
+[previous-lesson]: 6-mcp-playwright.md
+[next-lesson]: 8-create-pull-request.md
 [create-agents]: https://docs.github.com/copilot/how-tos/copilot-cli/customize-copilot/create-custom-agents-for-cli
 [agent-config]: https://docs.github.com/copilot/reference/custom-agents-configuration

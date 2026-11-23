@@ -38,11 +38,11 @@ Before attending this workshop, please ensure you have:
 
 **[Start with Exercise 0: Prerequisites →][ex0]**
 
-[ex0]: 0-prerequisites/
-[ex1]: 1-custom-instructions/
-[ex2]: 2-agent-mode/
-[ex3]: 3-mcp/
-[ex4]: 4-custom-agents/
-[ex5]: 5-managing-agents/
-[ex6]: 6-iterating/
-[foundry-toolkit]: 7-foundry-toolkit/
+[ex0]: 0-prerequisites.md
+[ex1]: 1-custom-instructions.md
+[ex2]: 2-agent-mode.md
+[ex3]: 3-mcp.md
+[ex4]: 4-custom-agents.md
+[ex5]: 5-managing-agents.md
+[ex6]: 6-iterating.md
+[foundry-toolkit]: 7-foundry-toolkit/README.md

@@ -57,4 +57,4 @@ The project is published, so there is a known-good version to compare against. `
 
 You implemented the first issue, reviewed it with `/diff`, and started a second session in its own worktree. Continue to [Lesson 5: Plan before you edit][next-lesson].
 
-[next-lesson]: ../5-plan-mode/
+[next-lesson]: 5-plan-mode.md

@@ -147,5 +147,5 @@ Next, you'll use the same Tailspin Toys repository, worktree branch, issue-linke
 [azure-students]: https://azure.microsoft.com/free/students
 [install-azure-cli]: https://learn.microsoft.com/cli/azure/install-azure-cli
 [install-azd]: https://learn.microsoft.com/azure/developer/azure-developer-cli/install-azd
-[next-module]: ../2-build-and-deploy/
-[cleanup]: ../#clean-up-your-resources
+[next-module]: 2-build-and-deploy.md
+[cleanup]: README.md#clean-up-your-resources

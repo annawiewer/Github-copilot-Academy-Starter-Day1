@@ -33,5 +33,5 @@ Review the space quiz and suggest three focused feature ideas. Use the GitHub to
 
 You created issues and implemented one in its own session. Continue to [Lesson 8: Review and merge][next-lesson].
 
-[lesson-3]: ../3-inspect-and-test/
-[next-lesson]: ../8-review-and-merge/
+[lesson-3]: 3-inspect-and-test.md
+[next-lesson]: 8-review-and-merge.md

@@ -27,4 +27,4 @@ In this lesson, you will:
 
 You created, reviewed, and merged a pull request without leaving the terminal. Continue to [Lesson 9: Delegate work once you trust the loop][next-lesson].
 
-[next-lesson]: ../9-delegate/
+[next-lesson]: 9-delegate.md

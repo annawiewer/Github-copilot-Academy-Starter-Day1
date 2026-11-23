@@ -104,8 +104,8 @@ These community examples are references, not additional tasks:
 - [Diagrams and a bundled export script: `drawio`][drawio-example]
 - [Browser testing: `webapp-testing`][browser-example]
 
-[previous-lesson]: ../4-custom-instructions/
-[next-lesson]: ../6-mcp-playwright/
+[previous-lesson]: 4-custom-instructions.md
+[next-lesson]: 6-mcp-playwright.md
 [skill-spec]: https://agentskills.io/specification
 [contribution-example]: https://github.com/github/awesome-copilot/tree/main/skills/make-repo-contribution
 [prd-example]: https://github.com/github/awesome-copilot/tree/main/skills/prd

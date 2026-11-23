@@ -144,7 +144,7 @@ You scaffolded an agent with a deployable catalog copy, tested grounding and con
 
 Next, you'll keep the same repository, branch, Copilot CLI session, and deployed agent to [connect the concierge to the website][next-lesson]. If a hosted agent is enough for your exploration, you can stop here and [clean up your Azure resources][cleanup].
 
-[overview]: ../
-[previous-lesson]: ../1-project-and-model/
-[next-lesson]: ../3-connect-to-site/
-[cleanup]: ../#clean-up-your-resources
+[overview]: README.md
+[previous-lesson]: 1-project-and-model.md
+[next-lesson]: 3-connect-to-site.md
+[cleanup]: README.md#clean-up-your-resources

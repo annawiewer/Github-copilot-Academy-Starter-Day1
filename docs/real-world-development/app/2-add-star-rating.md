@@ -121,8 +121,8 @@ Next, you'll [start from the filtering issue and use Plan and Autopilot modes][n
 - [About the GitHub Copilot app][about-copilot-app]
 - [Managing issues and pull requests with the GitHub Copilot app][managing-issues-prs]
 
-[prior-lesson]: ../1-install-copilot-app/#install-and-configure-the-github-copilot-app
-[next-lesson]: ../3-agent-modes/
+[prior-lesson]: 1-install-copilot-app.md#install-and-configure-the-github-copilot-app
+[next-lesson]: 3-agent-modes.md
 [agent-sessions]: https://docs.github.com/copilot/how-tos/github-copilot-app/agent-sessions
 [about-copilot-app]: https://docs.github.com/copilot/concepts/agents/github-copilot-app
 [managing-issues-prs]: https://docs.github.com/copilot/how-tos/github-copilot-app/managing-issues-and-pull-requests

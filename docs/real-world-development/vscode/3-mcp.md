@@ -164,8 +164,8 @@ You used an MCP server to *test* a feature — but MCP is just one way to extend
 - [GitHub MCP Registry][mcp-registry]
 - [MCP servers in VS Code][vscode-mcp-config]
 
-[previous-lesson]: ../2-agent-mode/
-[next-lesson]: ../4-custom-agents/
+[previous-lesson]: 2-agent-mode.md
+[next-lesson]: 4-custom-agents.md
 [mcp-blog-post]: https://github.blog/ai-and-ml/llms/what-the-heck-is-mcp-and-why-is-everyone-talking-about-it/
 [github-mcp-server]: https://github.com/github/github-mcp-server
 [mcp-registry]: https://github.com/mcp

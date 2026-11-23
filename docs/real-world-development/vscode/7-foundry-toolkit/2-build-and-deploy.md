@@ -100,7 +100,7 @@ Next, you'll use the same `tailspin-toys` project, model deployment, and hosted 
 | [Next module: Connect the agent to the site →][next-lesson] |
 |--:|
 
-[previous-lesson]: ../1-project-and-model/
-[model-tests]: ../1-project-and-model/#test-the-deployed-model
-[next-lesson]: ../3-connect-to-site/
-[cleanup]: ../#clean-up-your-resources
+[previous-lesson]: 1-project-and-model.md
+[model-tests]: 1-project-and-model.md#test-the-deployed-model
+[next-lesson]: 3-connect-to-site.md
+[cleanup]: README.md#clean-up-your-resources.md

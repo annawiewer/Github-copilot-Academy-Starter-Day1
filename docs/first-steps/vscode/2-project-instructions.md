@@ -37,4 +37,4 @@ The instructions file is not only for facts about the project. Add the specifics
 
 Your workspace now has custom instructions grounded in real code. Continue to [Lesson 3: Inspect context and test][next-lesson].
 
-[next-lesson]: ../3-inspect-and-test/
+[next-lesson]: 3-inspect-and-test.md

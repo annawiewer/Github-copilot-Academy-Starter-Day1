@@ -84,7 +84,7 @@ In the [next lesson][next-lesson] you'll publish your accessibility work as a pu
 | [← Previous lesson: Custom agents][previous-lesson] | [Next lesson: Iterating on Copilot's work →][next-lesson] |
 |:--|--:|
 
-[previous-lesson]: ../4-custom-agents/
-[next-lesson]: ../6-iterating/
+[previous-lesson]: 4-custom-agents.md
+[next-lesson]: 6-iterating.md
 [copilot-chat-vscode]: https://code.visualstudio.com/docs/copilot/chat/copilot-chat
 [agent-mode]: https://code.visualstudio.com/docs/copilot/chat/chat-agent-mode

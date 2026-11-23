@@ -71,10 +71,10 @@ When you're done experimenting at any checkpoint, remove the Azure resources to 
 - [Deploy your first hosted agent with the Microsoft Foundry Skill][hosted-agent-quickstart]
 - [Hosted agent permissions][hosted-agent-permissions]
 
-[project-model]: 1-project-and-model/
-[build-deploy]: 2-build-and-deploy/
-[connect-site]: 3-connect-to-site/
-[review]: ../10-review/
+[project-model]: 1-project-and-model.md
+[build-deploy]: 2-build-and-deploy.md
+[connect-site]: 3-connect-to-site.md
+[review]: ../10-review.md
 [cleanup]: #clean-up-your-resources
 [azure-skills]: https://github.com/microsoft/azure-skills#github-copilot-cli
 [foundry-skill]: https://learn.microsoft.com/azure/foundry/how-to/develop/use-microsoft-foundry-skill?tabs=copilot-cli

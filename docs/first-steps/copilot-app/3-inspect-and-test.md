@@ -64,5 +64,5 @@ Nothing has been written to Git yet. In the next lesson, you will run `/init cre
 
 You confirmed the session's project and usage details, then verified the quiz with a browser-level smoke test. Continue to [Lesson 4: Capture project instructions][next-lesson].
 
-[next-lesson]: ../4-project-instructions/
-[publish-lesson]: ../5-publish/
+[next-lesson]: 4-project-instructions.md
+[publish-lesson]: 5-publish.md

@@ -35,4 +35,4 @@ After the agent finishes:
 
 Your project is now a GitHub repository. Continue to [Lesson 6: Work with issues and sessions][next-lesson].
 
-[next-lesson]: ../6-issues-and-sessions/
+[next-lesson]: 6-issues-and-sessions.md

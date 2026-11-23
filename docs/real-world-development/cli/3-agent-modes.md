@@ -155,5 +155,5 @@ Next, let's dig a little deeper into how code is generated, ensuring it follows 
 
 [autopilot]: https://docs.github.com/copilot/concepts/agents/copilot-cli/autopilot
 [cli-reference]: https://docs.github.com/copilot/reference/copilot-cli-reference/cli-command-reference
-[previous-lesson]: ../2-add-star-rating/
-[next-lesson]: ../4-custom-instructions/
+[previous-lesson]: 2-add-star-rating.md
+[next-lesson]: 4-custom-instructions.md

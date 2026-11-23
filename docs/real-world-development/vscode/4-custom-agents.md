@@ -108,8 +108,8 @@ Next, you'll [monitor and steer the agent's work][next-lesson] — reviewing the
 | [← Previous lesson: Testing your feature with the Playwright MCP server][previous-lesson] | [Next lesson: Monitoring and managing agents →][next-lesson] |
 |:--|--:|
 
-[previous-lesson]: ../3-mcp/
-[next-lesson]: ../5-managing-agents/
+[previous-lesson]: 3-mcp.md
+[next-lesson]: 5-managing-agents.md
 [custom-agents]: https://docs.github.com/copilot/concepts/agents/cloud-agent/about-custom-agents
 [creating-custom-agents-ide]: https://docs.github.com/copilot/how-tos/use-copilot-agents/cloud-agent/create-custom-agents-in-your-ide
 [custom-agents-vscode]: https://code.visualstudio.com/docs/copilot/customization/custom-agents

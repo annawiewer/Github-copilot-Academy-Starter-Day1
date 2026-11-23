@@ -37,7 +37,7 @@ Choose from GitHub Copilot CLI, the GitHub Copilot app, the GitHub Copilot cloud
 >
 > If something appears broken or does not run correctly during an instructor-led workshop, ask a mentor.
 
-[first-steps-app]: first-steps/copilot-app/
-[first-steps-cli]: first-steps/copilot-cli/
-[first-steps-vscode]: first-steps/vscode/
-[real-world-development]: real-world-development/
+[first-steps-app]: first-steps/copilot-app/README.md
+[first-steps-cli]: first-steps/copilot-cli/README.md
+[first-steps-vscode]: first-steps/vscode/README.md
+[real-world-development]: real-world-development/README.md

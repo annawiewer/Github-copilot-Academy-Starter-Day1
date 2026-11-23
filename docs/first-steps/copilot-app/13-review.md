@@ -49,6 +49,6 @@ Run the same Space Quiz through a different way of working with the [Copilot CLI
 [github-pages]: https://docs.github.com/pages
 [best-practices]: https://docs.github.com/copilot/get-started/best-practices
 [copilot-plans]: https://github.com/features/copilot/plans
-[first-steps-cli]: ../../copilot-cli/
-[first-steps-vscode]: ../../vscode/
-[real-world-app]: ../../../real-world-development/app/
+[first-steps-cli]: ../copilot-cli/README.md
+[first-steps-vscode]: ../vscode/README.md
+[real-world-app]: ../../real-world-development/app/README.md

@@ -43,9 +43,9 @@ Before attending this workshop, please ensure you have:
 
 **[Start with Exercise 0: Prerequisites →][ex0]**
 
-[ex0]: 0-prerequisites/
-[ex1]: 1-custom-instructions/
-[ex2]: 2-cloud-agent/
-[ex3]: 3-custom-agents/
-[ex4]: 4-managing-agents/
-[ex5]: 5-iterating/
+[ex0]: 0-prerequisites.md
+[ex1]: 1-custom-instructions.md
+[ex2]: 2-cloud-agent.md
+[ex3]: 3-custom-agents.md
+[ex4]: 4-managing-agents.md
+[ex5]: 5-iterating.md

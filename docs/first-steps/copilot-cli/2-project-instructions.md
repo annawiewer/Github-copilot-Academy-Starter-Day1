@@ -35,5 +35,5 @@ The instructions file is not only for facts about the project. Add the specifics
 
 Your project now has agent instructions grounded in real code. Continue to [Lesson 3: Publish the project][next-lesson].
 
-[next-lesson]: ../3-publish/
+[next-lesson]: 3-publish.md
 [cli-init]: https://docs.github.com/copilot/reference/copilot-cli-reference/cli-command-reference#project-initialization-for-copilot

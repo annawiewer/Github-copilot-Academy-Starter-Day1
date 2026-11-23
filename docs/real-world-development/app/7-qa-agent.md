@@ -76,5 +76,5 @@ You now have the implementation, skill update, QA profile, tests, and verificati
 
 - [Customizing the GitHub Copilot app, including selecting custom agents][customize-app]
 
-[next-lesson]: ../8-create-pull-request/
+[next-lesson]: 8-create-pull-request.md
 [customize-app]: https://docs.github.com/copilot/how-tos/github-copilot-app/customize-github-copilot-app

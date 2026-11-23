@@ -30,4 +30,4 @@ The sparkle button drafts a commit message from the staged diff. Once you commit
 
 Your tested quiz is now published on GitHub. Continue to [Lesson 5: Plan before you edit][next-lesson].
 
-[next-lesson]: ../5-plan-mode/
+[next-lesson]: 5-plan-mode.md

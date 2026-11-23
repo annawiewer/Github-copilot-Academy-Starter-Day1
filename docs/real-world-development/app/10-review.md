@@ -64,9 +64,9 @@ If you'd like to explore more of the GitHub Copilot ecosystem, check out the [VS
 - [Using automations][using-automations]
 - [Working with canvas extensions][canvas-docs]
 
-[vscode-harness]: ../../vscode/
-[cli-harness]: ../../cli/
-[cloud-harness]: ../../cloud/
+[vscode-harness]: ../vscode/README.md
+[cli-harness]: ../cli/README.md
+[cloud-harness]: ../cloud/README.md
 [about-copilot-app]: https://docs.github.com/copilot/concepts/agents/github-copilot-app
 [getting-started]: https://docs.github.com/copilot/how-tos/github-copilot-app/getting-started
 [customize]: https://docs.github.com/copilot/how-tos/github-copilot-app/customize-github-copilot-app

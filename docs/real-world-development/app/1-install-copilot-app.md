@@ -101,7 +101,7 @@ Next, you'll [start your first agent session][next-lesson] and use it to show a 
 - [Getting started with the GitHub Copilot app][getting-started]
 - [Working with agent sessions in the GitHub Copilot app][agent-sessions]
 
-[next-lesson]: ../2-add-star-rating/
+[next-lesson]: 2-add-star-rating.md
 [about-copilot-app]: https://docs.github.com/copilot/concepts/agents/github-copilot-app
 [getting-started]: https://docs.github.com/copilot/how-tos/github-copilot-app/getting-started
 [agent-sessions]: https://docs.github.com/copilot/how-tos/github-copilot-app/agent-sessions

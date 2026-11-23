@@ -45,4 +45,4 @@ The integrated browser can hand a specific element straight to chat, so you neve
 
 You built, previewed, and polished the quiz without leaving the editor. Continue to [Lesson 2: Capture project instructions][next-lesson].
 
-[next-lesson]: ../2-project-instructions/
+[next-lesson]: 2-project-instructions.md

@@ -59,4 +59,4 @@ The **Changes** tab lists every file the session touched, with the diff inline.
 
 You created a backlog, implemented one issue in an isolated session, and reviewed the diff. Continue to [Lesson 7: Plan before you edit][next-lesson].
 
-[next-lesson]: ../7-plan-mode/
+[next-lesson]: 7-plan-mode.md

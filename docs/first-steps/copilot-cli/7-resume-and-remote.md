@@ -32,4 +32,4 @@ Run `/remote` to keep *that same session* running locally while making it availa
 
 You can pause and resume sessions, and follow a local session from another device. Continue to [Lesson 8: Create, review, and merge from the CLI][next-lesson].
 
-[next-lesson]: ../8-pull-request/
+[next-lesson]: 8-pull-request.md

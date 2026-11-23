@@ -69,4 +69,4 @@ Copilot CLI is installed, signed in, and running in an empty `space-quiz` folder
 [gh-cli]: https://cli.github.com/
 [install-cli]: https://docs.github.com/copilot/how-tos/set-up/install-copilot-cli
 [active-models]: https://docs.github.com/copilot/reference/copilot-billing/models-and-pricing
-[next-lesson]: ../1-build/
+[next-lesson]: 1-build.md

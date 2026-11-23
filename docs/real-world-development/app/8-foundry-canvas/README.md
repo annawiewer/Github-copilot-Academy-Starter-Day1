@@ -79,10 +79,10 @@ The Microsoft documentation describes Canvas, hosted deployments, and their perm
 - [Deploy your first hosted agent with Foundry Canvas][hosted-agent-quickstart]
 - [Hosted agent permissions][hosted-agent-permissions]
 
-[module-1]: ./1-project-and-model/
-[module-2]: ./2-build-and-deploy/
-[module-3]: ./3-connect-to-site/
-[core-review]: ../10-review/
+[module-1]: 1-project-and-model.md
+[module-2]: 2-build-and-deploy.md
+[module-3]: 3-connect-to-site.md
+[core-review]: 10-review.md
 [foundry-canvas]: https://learn.microsoft.com/azure/foundry/agents/concepts/foundry-canvas
 [hosted-agent-quickstart]: https://learn.microsoft.com/azure/foundry/agents/quickstarts/quickstart-hosted-agent?pivots=canvas
 [hosted-agent-permissions]: https://learn.microsoft.com/azure/foundry/agents/concepts/hosted-agent-permissions

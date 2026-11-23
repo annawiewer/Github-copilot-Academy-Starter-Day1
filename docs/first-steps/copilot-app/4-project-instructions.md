@@ -35,4 +35,4 @@ The instructions file is not only for facts about the project. Add the specifics
 
 Your project now has agent instructions grounded in real code. Continue to [Lesson 5: Publish the project][next-lesson].
 
-[next-lesson]: ../5-publish/
+[next-lesson]: 5-publish.md

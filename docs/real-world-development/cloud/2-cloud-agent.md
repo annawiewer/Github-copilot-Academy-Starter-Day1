@@ -192,8 +192,8 @@ With cloud agent working diligently in the background, we can now turn our atten
 | [Next lesson: Custom agents →][next-lesson] |
 |--:|
 
-[previous-lesson]: ../1-custom-instructions/
-[next-lesson]: ../3-custom-agents/
+[previous-lesson]: 1-custom-instructions.md
+[next-lesson]: 3-custom-agents.md
 [cloud-agent-mcp]: https://docs.github.com/copilot/how-tos/copilot-on-github/customize-copilot/customize-cloud-agent/extend-cloud-agent-with-mcp
 [assign-issue]: https://docs.github.com/copilot/how-tos/use-copilot-agents/cloud-agent/start-copilot-sessions
 [setup-workflow]: https://docs.github.com/copilot/how-tos/copilot-on-github/customize-copilot/customize-cloud-agent/customize-the-agent-environment

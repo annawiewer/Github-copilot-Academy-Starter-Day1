@@ -36,6 +36,8 @@ For PR/CI rules, see **[CONTRIBUTING.md](./CONTRIBUTING.md)**.
   - `agents/`, `skills/` — Custom agents and skills available to Copilot in this repo.
   - `workflows/pages.yml` — Builds and deploys the site on pushes to `main`.
 
+**[START HERE](docs/README.md)**
+
 ## Local development
 
 From the repo root:

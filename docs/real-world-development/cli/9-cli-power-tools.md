@@ -92,9 +92,9 @@ There are more slash commands available and more to explore with Copilot CLI! Le
 - [Context management in Copilot CLI][context-management]
 - [About Copilot cloud agent][about-cloud-agent]
 
-[previous-lesson]: ../8-create-pull-request/
-[next-lesson]: ../10-review/
+[previous-lesson]: 8-create-pull-request.md
+[next-lesson]: 10-review.md
 [cli-reference]: https://docs.github.com/copilot/reference/copilot-cli-reference/cli-command-reference
 [context-management]: https://docs.github.com/copilot/concepts/agents/copilot-cli/context-management
 [about-cloud-agent]: https://docs.github.com/copilot/concepts/agents/cloud-agent/about-cloud-agent
-[cloud-workshop]: ../../cloud/
+[cloud-workshop]: ../cloud/README.md

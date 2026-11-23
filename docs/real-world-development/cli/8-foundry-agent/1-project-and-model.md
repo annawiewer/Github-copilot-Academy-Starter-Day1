@@ -211,9 +211,9 @@ You prepared the Azure tools, exported the catalog, and tested a deployed model 
 
 Next, you'll use the same repository, `foundry-agent-cli` branch, Copilot CLI session, Foundry project, and selected model deployment to [build and deploy the agent][next-lesson]. If you're stopping here, [clean up your Azure resources][cleanup] to avoid ongoing costs.
 
-[overview]: ../
-[next-lesson]: ../2-build-and-deploy/
-[cleanup]: ../#clean-up-your-resources
+[overview]: README.md
+[next-lesson]: 2-build-and-deploy.md
+[cleanup]: README.md#clean-up-your-resources
 [azure-free]: https://azure.microsoft.com/pricing/purchase-options/azure-account
 [azure-students]: https://azure.microsoft.com/free/students
 [install-azd]: https://learn.microsoft.com/azure/developer/azure-developer-cli/install-azd

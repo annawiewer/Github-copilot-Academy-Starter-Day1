@@ -36,4 +36,4 @@ In this lesson, you will:
 
 You agreed on an approach with the agent before it wrote any code. Continue to [Lesson 6: Know what the agent can see][next-lesson].
 
-[next-lesson]: ../6-context/
+[next-lesson]: 6-context.md

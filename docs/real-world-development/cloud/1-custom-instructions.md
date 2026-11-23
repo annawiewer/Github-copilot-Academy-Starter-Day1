@@ -142,8 +142,8 @@ Next, you'll [assign your first issue to Copilot cloud agent][next-lesson].
 - [5 tips for writing better custom instructions for Copilot][copilot-instructions-five-tips]
 - [Awesome Copilot — a collection of instruction files and other resources][awesome-copilot]
 
-[previous-lesson]: ../0-prerequisites/
-[next-lesson]: ../2-cloud-agent/
+[previous-lesson]: 0-prerequisites.md
+[next-lesson]: 2-cloud-agent.md
 [instruction-files]: https://docs.github.com/copilot/customizing-copilot/about-customizing-github-copilot-chat-responses
 [instructions-best-practices]: https://docs.github.com/enterprise-cloud@latest/copilot/using-github-copilot/coding-agent/best-practices-for-using-copilot-to-work-on-tasks#adding-custom-instructions-to-your-repository
 [copilot-instructions-five-tips]: https://github.blog/ai-and-ml/github-copilot/5-tips-for-writing-better-custom-instructions-for-copilot/

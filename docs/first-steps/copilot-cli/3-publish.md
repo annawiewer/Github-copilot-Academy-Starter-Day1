@@ -47,4 +47,4 @@ The last command uses the [GitHub CLI][gh-cli]. If you do not have it, create th
 Your project is now a GitHub repository with a known-good version to compare against. Continue to [Lesson 4: Work on issues in parallel][next-lesson].
 
 [gh-cli]: https://cli.github.com/
-[next-lesson]: ../4-issues-and-sessions/
+[next-lesson]: 4-issues-and-sessions.md

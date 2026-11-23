@@ -96,8 +96,8 @@ With Copilot working on implementing the high contrast mode, we can now turn our
 | [← Previous lesson: GitHub Copilot cloud agent][previous-lesson] | [Next lesson: Monitoring and managing agents →][next-lesson] |
 |:--|--:|
 
-[previous-lesson]: ../2-cloud-agent/
-[next-lesson]: ../4-managing-agents/
+[previous-lesson]: 2-cloud-agent.md
+[next-lesson]: 4-managing-agents.md
 [custom-agents]: https://docs.github.com/copilot/concepts/agents/cloud-agent/about-custom-agents
 [org-custom-agents]: https://docs.github.com/copilot/how-tos/administer-copilot/manage-for-organization/prepare-for-custom-agents
 [enterprise-custom-agents]: https://docs.github.com/copilot/how-tos/administer-copilot/manage-for-enterprise/manage-agents/prepare-for-custom-agents

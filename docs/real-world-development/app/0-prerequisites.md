@@ -86,9 +86,9 @@ Next, you'll [install the GitHub Copilot app][next-lesson], connect the reposito
 - [Creating a repository from a template][template-repository]
 - [About the GitHub Copilot app][about-copilot-app]
 
-[next-lesson]: ../1-install-copilot-app/
+[next-lesson]: 1-install-copilot-app.md
 [nodejs]: https://nodejs.org/
 [node-download]: https://nodejs.org/en/download
 [template-repository]: https://docs.github.com/repositories/creating-and-managing-repositories/creating-a-template-repository
 [about-copilot-app]: https://docs.github.com/copilot/concepts/agents/github-copilot-app
-[session-environment]: ../3-agent-modes/#start-a-session-from-the-issue
+[session-environment]: 3-agent-modes.md#start-a-session-from-the-issue

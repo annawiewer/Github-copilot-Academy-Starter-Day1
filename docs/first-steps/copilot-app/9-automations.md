@@ -39,4 +39,4 @@ Review the generated summary and confirm that it references the recent open issu
 
 You created a reusable agent workflow that runs on a schedule. Continue to [Lesson 10: Continue a session remotely][next-lesson].
 
-[next-lesson]: ../10-remote/
+[next-lesson]: 10-remote.md

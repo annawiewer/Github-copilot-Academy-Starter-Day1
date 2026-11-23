@@ -136,5 +136,5 @@ Next, let's dig a little deeper into how code is generated, ensuring it follows 
 
 - [Working with agent sessions in the GitHub Copilot app][agent-sessions]
 
-[next-lesson]: ../4-custom-instructions/
+[next-lesson]: 4-custom-instructions.md
 [agent-sessions]: https://docs.github.com/copilot/how-tos/github-copilot-app/agent-sessions

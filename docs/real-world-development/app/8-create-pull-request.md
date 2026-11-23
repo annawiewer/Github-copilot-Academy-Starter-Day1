@@ -76,6 +76,6 @@ Next, you'll [use an existing canvas and create a triage canvas][next-lesson] to
 - [Managing issues and pull requests with the GitHub Copilot app][managing-issues-prs]
 - [About the GitHub Copilot app][about-copilot-app]
 
-[next-lesson]: ../9-canvases/
+[next-lesson]: 9-canvases.md
 [managing-issues-prs]: https://docs.github.com/copilot/how-tos/github-copilot-app/managing-issues-and-pull-requests
 [about-copilot-app]: https://docs.github.com/copilot/concepts/agents/github-copilot-app

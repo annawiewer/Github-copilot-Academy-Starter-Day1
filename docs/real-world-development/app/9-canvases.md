@@ -111,7 +111,7 @@ With your backlog tracked, you'll [review everything you've built and explore wh
 - [Canvases on Awesome Copilot][awesome-copilot-canvases]
 - [About the GitHub Copilot app][about-copilot-app]
 
-[next-lesson]: ../10-review/
+[next-lesson]: 10-review.md
 [canvas-docs]: https://docs.github.com/copilot/how-tos/github-copilot-app/working-with-canvas-extensions
 [awesome-copilot-canvases]: https://awesome-copilot.github.com/extensions/
 [about-copilot-app]: https://docs.github.com/copilot/concepts/agents/github-copilot-app

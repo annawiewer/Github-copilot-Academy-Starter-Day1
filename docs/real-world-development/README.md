@@ -32,7 +32,7 @@ Assign GitHub issues to an asynchronous agent, guide its work, monitor progress,
 
 Use GitHub Copilot in Visual Studio Code and GitHub Codespaces. Work with Copilot Chat agent mode, MCP servers, and custom agents without leaving your editor.
 
-[cli]: cli/
-[app]: app/
-[cloud]: cloud/
-[vscode]: vscode/
+[cli]: cli/README.md
+[app]: app/README.md
+[cloud]: cloud/README.md
+[vscode]: vscode/README.md

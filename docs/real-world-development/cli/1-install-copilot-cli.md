@@ -132,8 +132,8 @@ Next, you'll [start your first focused change][next-lesson] and use Copilot CLI 
 - [About GitHub Copilot CLI][about-copilot-cli]
 - [Copilot CLI command reference][cli-reference]
 
-[previous-lesson]: ../0-prerequisites/
-[next-lesson]: ../2-add-star-rating/
+[previous-lesson]: 0-prerequisites.md
+[next-lesson]: 2-add-star-rating.md
 [install-cli]: https://docs.github.com/copilot/how-tos/copilot-cli/set-up-copilot-cli/install-copilot-cli
 [about-copilot-cli]: https://docs.github.com/copilot/concepts/agents/about-copilot-cli
 [cli-reference]: https://docs.github.com/copilot/reference/copilot-cli-reference/cli-command-reference

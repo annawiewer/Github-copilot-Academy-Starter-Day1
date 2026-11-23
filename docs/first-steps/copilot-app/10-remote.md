@@ -30,4 +30,4 @@ In this lesson, you will:
 
 You made a local session available from another device. Continue to [Lesson 11: Explore a Canvas][next-lesson].
 
-[next-lesson]: ../11-canvas/
+[next-lesson]: 11-canvas.md

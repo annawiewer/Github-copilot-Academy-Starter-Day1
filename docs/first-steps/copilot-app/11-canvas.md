@@ -47,4 +47,4 @@ You used a shared visual surface to start an agent session. Continue to [Lesson 
 
 [canvas-gallery]: https://awesome-copilot.github.com/extensions/
 [kanban-extension]: https://awesome-copilot.github.com/extension/accessibility-kanban/
-[next-lesson]: ../12-deploy-pages/
+[next-lesson]: 12-deploy-pages.md

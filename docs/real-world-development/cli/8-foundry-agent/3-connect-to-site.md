@@ -89,8 +89,8 @@ You connected the hosted Backer Concierge to Tailspin Toys through a local serve
 
 Continue to [Wrap-up and next steps][review] to close out the CLI workshop.
 
-[overview]: ../
-[previous-lesson]: ../2-build-and-deploy/
-[review]: ../../10-review/
-[playwright-lesson]: ../../6-mcp-playwright/
-[cleanup]: ../#clean-up-your-resources
+[overview]: README.md
+[previous-lesson]: 2-build-and-deploy.md
+[review]: ../10-review.md
+[playwright-lesson]: ../6-mcp-playwright.md
+[cleanup]: README.md#clean-up-your-resources

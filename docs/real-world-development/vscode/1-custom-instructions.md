@@ -242,8 +242,8 @@ Next, you'll put those instructions to work in [agent mode][next-lesson] as Copi
 - [Personal custom instructions for GitHub Copilot][personal-instructions]
 - [Awesome Copilot — a collection of instruction files and other resources][awesome-copilot]
 
-[previous-lesson]: ../0-prerequisites/
-[next-lesson]: ../2-agent-mode/
+[previous-lesson]: 0-prerequisites.md
+[next-lesson]: 2-agent-mode.md
 [instruction-files]: https://code.visualstudio.com/docs/copilot/copilot-customization
 [instructions-best-practices]: https://docs.github.com/enterprise-cloud@latest/copilot/using-github-copilot/coding-agent/best-practices-for-using-copilot-to-work-on-tasks#adding-custom-instructions-to-your-repository
 [personal-instructions]: https://docs.github.com/copilot/customizing-copilot/adding-personal-custom-instructions-for-github-copilot

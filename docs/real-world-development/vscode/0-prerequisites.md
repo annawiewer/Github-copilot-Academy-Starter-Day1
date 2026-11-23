@@ -87,4 +87,4 @@ Let's start putting Copilot to work. Continue to [Exercise 1 - Custom instructio
 [template-repository]: https://docs.github.com/repositories/creating-and-managing-repositories/creating-a-template-repository
 [codespaces-quickstart]: https://docs.github.com/codespaces/getting-started/quickstart
 [copilot-chat-extension]: https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat
-[next-lesson]: ../1-custom-instructions/
+[next-lesson]: 1-custom-instructions.md

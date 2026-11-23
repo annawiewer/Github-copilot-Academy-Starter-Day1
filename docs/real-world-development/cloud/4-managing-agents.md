@@ -85,7 +85,7 @@ With Copilot completing its work on the accessibility features, we can now turn 
 | [← Previous lesson: Custom agents][previous-lesson] | [Next lesson: Iterating on Copilot's work →][next-lesson] |
 |:--|--:|
 
-[previous-lesson]: ../3-custom-agents/
-[next-lesson]: ../5-iterating/
+[previous-lesson]: 3-custom-agents.md
+[next-lesson]: 5-iterating.md
 [agents-page]: https://github.blog/changelog/2025-07-03-agents-page-for-copilot-coding-agent-in-public-preview
 [custom-agents]: https://docs.github.com/copilot/concepts/agents/cloud-agent/about-custom-agents

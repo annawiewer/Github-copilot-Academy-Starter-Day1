@@ -38,4 +38,4 @@ In this lesson, you will:
 You reviewed and merged a pull request without leaving VS Code. Continue to [Lesson 9: Hand the next idea to a cloud session][next-lesson].
 
 [code-review]: https://docs.github.com/copilot/concepts/agents/code-review
-[next-lesson]: ../9-cloud-session/
+[next-lesson]: 9-cloud-session.md

@@ -30,5 +30,5 @@ The **New** screen is where you set the folder, the mode, and the agent before y
 
 Your empty Space Quiz workspace is ready. Continue to [Lesson 2: Build and polish the quiz][next-lesson].
 
-[model-order]: ../0-prerequisites/#choose-a-model
-[next-lesson]: ../2-build-and-polish/
+[model-order]: 0-prerequisites.md#choose-a-model
+[next-lesson]: 2-build-and-polish.md

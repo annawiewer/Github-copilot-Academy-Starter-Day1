@@ -59,7 +59,7 @@ Next, you'll [explore more useful Copilot CLI slash commands][next-lesson] for c
 - [Manage pull requests with Copilot CLI][manage-prs]
 - [Copilot CLI command reference][cli-reference]
 
-[previous-lesson]: ../7-qa-agent/
-[next-lesson]: ../9-cli-power-tools/
+[previous-lesson]: 7-qa-agent.md
+[next-lesson]: 9-cli-power-tools.md
 [manage-prs]: https://docs.github.com/copilot/how-tos/copilot-cli/use-copilot-cli/manage-pull-requests
 [cli-reference]: https://docs.github.com/copilot/reference/copilot-cli-reference/cli-command-reference

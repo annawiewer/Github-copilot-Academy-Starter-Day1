@@ -192,7 +192,7 @@ As the list of games grows there will be a need for paging to be enabled. Using 
 - [Copilot ask, edit, and agent modes: What they do and when to use them][choose-mode]
 - [Agent mode in VS Code][vs-code-agent-mode]
 
-[previous-lesson]: ../1-custom-instructions/
-[next-lesson]: ../3-mcp/
+[previous-lesson]: 1-custom-instructions.md
+[next-lesson]: 3-mcp.md
 [choose-mode]: https://github.blog/ai-and-ml/github-copilot/copilot-ask-edit-and-agent-modes-what-they-do-and-when-to-use-them/
 [vs-code-agent-mode]: https://code.visualstudio.com/docs/copilot/chat/chat-agent-mode

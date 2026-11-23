@@ -38,4 +38,4 @@ Run a browser-level smoke test for the quiz. Check keyboard navigation, score up
 
 You confirmed what Copilot can see and tested the quiz before publishing. Continue to [Lesson 4: Publish the project][next-lesson].
 
-[next-lesson]: ../4-publish/
+[next-lesson]: 4-publish.md

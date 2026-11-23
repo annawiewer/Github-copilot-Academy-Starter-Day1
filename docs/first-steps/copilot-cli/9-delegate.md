@@ -33,4 +33,4 @@ Delegate this: add a shareable mission report to the space quiz. At the end of a
 
 You delegated a complete feature and reviewed the result. Continue to [Lesson 10: Review and next steps][next-lesson].
 
-[next-lesson]: ../10-review/
+[next-lesson]: 10-review.md

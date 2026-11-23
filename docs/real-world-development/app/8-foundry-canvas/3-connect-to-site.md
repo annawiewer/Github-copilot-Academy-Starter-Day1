@@ -83,8 +83,8 @@ You built a local credential-safe proxy, connected an accessible chat widget, an
 
 When you're finished experimenting, stop both local services and [clean up your Azure resources][cleanup]. Then continue to [Review and next steps][core-review] on the core workshop route.
 
-[previous-module]: ../2-build-and-deploy/
-[project-module]: ../1-project-and-model/
-[agent-checks]: ../2-build-and-deploy/#inspect-the-agent-locally
-[cleanup]: ../#clean-up-your-resources
-[core-review]: ../../10-review/
+[previous-module]: 2-build-and-deploy.md
+[project-module]: 1-project-and-model.md
+[agent-checks]: 2-build-and-deploy.md#inspect-the-agent-locally
+[cleanup]: README.md#clean-up-your-resources
+[core-review]: 10-review.md

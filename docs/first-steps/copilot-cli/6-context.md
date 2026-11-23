@@ -29,4 +29,4 @@ In this lesson, you will:
 
 You can now see and manage what the agent knows. Continue to [Lesson 7: Resume and go remote][next-lesson].
 
-[next-lesson]: ../7-resume-and-remote/
+[next-lesson]: 7-resume-and-remote.md

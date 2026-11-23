@@ -78,6 +78,6 @@ You built a local credential-safe proxy, connected an accessible chat widget, an
 
 When you're finished experimenting, stop the local services and [clean up your Azure resources][cleanup] to avoid ongoing costs. Then return to the [VS Code overview][vscode-overview] on the core workshop.
 
-[previous-lesson]: ../2-build-and-deploy/
-[cleanup]: ../#clean-up-your-resources
-[vscode-overview]: ../../
+[previous-lesson]: 2-build-and-deploy.md
+[cleanup]: README.md#clean-up-your-resources.md
+[vscode-overview]: README.md

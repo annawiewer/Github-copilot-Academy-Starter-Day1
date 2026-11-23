@@ -35,4 +35,4 @@ In this lesson, you will:
 
 You agreed on an approach with Copilot before it wrote any code. Continue to [Lesson 6: Give Copilot GitHub-aware tools][next-lesson].
 
-[next-lesson]: ../6-github-mcp/
+[next-lesson]: 6-github-mcp.md

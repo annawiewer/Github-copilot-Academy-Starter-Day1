@@ -79,7 +79,7 @@ Next, you'll [create a QA custom agent][next-lesson] that brings the skill and b
 - [Microsoft Playwright MCP Server][playwright-mcp-server]
 - [Configuring MCP servers in the GitHub Copilot app][customize-app]
 
-[next-lesson]: ../7-qa-agent/
+[next-lesson]: 7-qa-agent.md
 [mcp-blog-post]: https://github.blog/ai-and-ml/llms/what-the-heck-is-mcp-and-why-is-everyone-talking-about-it/
 [playwright-mcp-server]: https://github.com/microsoft/playwright-mcp
 [customize-app]: https://docs.github.com/copilot/how-tos/github-copilot-app/customize-github-copilot-app

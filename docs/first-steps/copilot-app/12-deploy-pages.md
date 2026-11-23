@@ -60,4 +60,4 @@ If the agent cannot enable Pages or merge the pull request, follow the specific 
 
 Your Space Quiz is now available as a live site, and you have verified the deployment instead of relying on the agent's report. Continue to [Lesson 13: Review and next steps][next-lesson].
 
-[next-lesson]: ../13-review/
+[next-lesson]: 13-review.md

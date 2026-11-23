@@ -63,4 +63,4 @@ Let's add custom instructions the cloud agent will follow. Continue to [Exercise
 [tailspin-template]: https://github.com/github-samples/tailspin-toys
 [template-repository]: https://docs.github.com/repositories/creating-and-managing-repositories/creating-a-template-repository
 [codespaces-quickstart]: https://docs.github.com/codespaces/getting-started/quickstart
-[next-lesson]: ../1-custom-instructions/
+[next-lesson]: 1-custom-instructions.md

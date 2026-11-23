@@ -86,10 +86,10 @@ For an optional extension, [Optional: Incorporate Foundry][exercise-7] uses VS C
 | [← Previous lesson: Managing agents][previous-lesson] |
 |:--|
 
-[previous-lesson]: ../5-managing-agents/
-[exercise-4]: ../4-custom-agents/
-[exercise-5]: ../5-managing-agents/
-[exercise-7]: ../7-foundry-toolkit/
+[previous-lesson]: 5-managing-agents.md
+[exercise-4]: 4-custom-agents.md
+[exercise-5]: 5-managing-agents.md
+[exercise-7]: 7-foundry-toolkit/README.md
 [github-copilot]: https://github.com/features/copilot
 [copilot-chat-vscode]: https://code.visualstudio.com/docs/copilot/chat/copilot-chat
 [agent-mode]: https://code.visualstudio.com/docs/copilot/chat/chat-agent-mode

@@ -26,4 +26,4 @@ In this lesson, you will:
 Copilot now has GitHub-aware tools. Continue to [Lesson 7: Plan and implement issues][next-lesson].
 
 [mcp-servers]: https://code.visualstudio.com/docs/copilot/chat/mcp-servers
-[next-lesson]: ../7-issues-and-sessions/
+[next-lesson]: 7-issues-and-sessions.md

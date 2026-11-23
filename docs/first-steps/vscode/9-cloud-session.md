@@ -42,4 +42,4 @@ The **Harness** picker lists Copilot running **Local** or **Cloud**, alongside o
 
 You delegated a feature to a cloud session and reviewed the result. Continue to [Lesson 10: Review and next steps][next-lesson].
 
-[next-lesson]: ../10-review/
+[next-lesson]: 10-review.md

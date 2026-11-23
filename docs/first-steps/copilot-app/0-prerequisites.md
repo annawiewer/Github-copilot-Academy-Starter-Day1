@@ -80,4 +80,4 @@ You verified the prerequisites, installed the app, chose a model, and explored i
 [active-models]: https://docs.github.com/copilot/reference/copilot-billing/models-and-pricing
 [review-lesson]: ../8-review-loop/
 [code-review]: https://docs.github.com/copilot/concepts/agents/code-review
-[next-lesson]: ../1-create-workspace/
+[next-lesson]: 1-create-workspace.md
